@@ -3,7 +3,7 @@
 🎓 Second-Year Computer Science Student at Kirinyaga University  
 💻 Passionate about Software Development & Problem Solving  
 🚀 Currently building Java & Web Development Projects  
-🌱 Currently learning: **[Insert something you are learning right now, e.g., React.js or Advanced Data Structures]**
+🌱 Currently learning: Javascript and databases
 
 ---
 
@@ -23,8 +23,7 @@ Java + MySQL console-based application for managing student records using Object
 
 ### 🔹 Personal Portfolio Website
 Responsive portfolio website built using semantic HTML and modern CSS.  
-👉 [View Project](https://github.com/Ring-2006/your-portfolio-repo) *(Remember to update this link!)*
-
+👉 [View Project](https://github.com/Ring-2006/your-portfolio-repo) 
 ---
 
 ## 📫 Connect With Me
