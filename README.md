@@ -14,14 +14,12 @@
 - **Tools:** Git, GitHub, NetBeans, VS Code
 
 ---
-
-## 📂 Featured Projects
 ## 📂 Featured Projects
 
-### 🔹 [Online E-Boutique](https://github.com/Ring-2006/YOUR-BOUTIQUE-REPO-NAME)
-A responsive e-commerce web interface built for a boutique store. It features a modern UI and beautiful product displays, demonstrating practical frontend design principles using core web technologies. (JavaScript interactivity currently in development!)
+### 🔹 [Online E-Boutique](https://ring-2006.github.io/online-store/)
+A responsive e-commerce web interface built for a boutique store. It features a modern UI and beautiful product displays, demonstrating practical frontend design principles using core web technologies.
 * **Tech Stack:** HTML5, CSS3
-* 👉 [View Source Code](https://github.com/Ring-2006/YOUR-BOUTIQUE-REPO-NAME)
+* 👉 [View Live Website](https://ring-2006.github.io/online-store/) | [View Source Code](https://github.com/Ring-2006/online-store)
 
 ### 🔹 [Personal Developer Portfolio](https://ring-2006.github.io)
 A fully responsive, accessible personal portfolio website built from the ground up to showcase my projects, skills, and resume. Features a custom dark-mode UI and semantic structure.
