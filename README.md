@@ -17,13 +17,15 @@
 
 ## 📂 Featured Projects
 
-### 🔹 Student Record Management System
-Java + MySQL console-based application for managing student records using Object-Oriented principles.  
-👉 [View Project](https://github.com/Ring-2006/student-record-system)
+### 🔹 [Student Record Management System](https://github.com/Ring-2006/student-record-system)
+A robust console-based application for efficiently managing student data. It features complete CRUD (Create, Read, Update, Delete) operations built on solid Object-Oriented Programming (OOP) principles.
+* **Tech Stack:** Java, MySQL
+* 👉 [View Source Code](https://github.com/Ring-2006/student-record-system)
 
-### 🔹 Personal Portfolio Website
-Responsive portfolio website built using semantic HTML and modern CSS.  
-👉 [View Project](https://github.com/Ring-2006/your-portfolio-repo) 
+### 🔹 [Personal Developer Portfolio](https://ring-2006.github.io)
+A fully responsive, accessible personal portfolio website built from the ground up to showcase my projects, skills, and resume. Features a custom dark-mode UI and semantic structure.
+* **Tech Stack:** HTML5, CSS3, JavaScript
+* 👉 [View Live Website](https://ring-2006.github.io) | [View Source Code](https://github.com/Ring-2006/Ring-2006.github.io)
 ---
 
 ## 📫 Connect With Me
